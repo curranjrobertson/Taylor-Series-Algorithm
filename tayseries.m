@@ -1,5 +1,6 @@
 % Curran Robertson
 % Taylor Series Algorithm
+% Date: September 2022
 
 clear all; clc; close all
 
